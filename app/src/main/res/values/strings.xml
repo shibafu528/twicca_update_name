@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">twicca_update_name</string>
+    <string name="label_activity">update_name</string>
+    <string name="label_sendto">宛先: \@</string>
+    <string name="label_name">命名:</string>
+    <string name="label_format">書式:</string>
+    <string name="label_format_long">\@宛先 update_name 命名 </string>
+    <string name="label_format_short">命名(\@宛先)</string>
+    <string name="label_submit">送信</string>
+    <string name="message_error_sendto">宛先が決まっていないよ</string>
+    <string name="message_error_name">命名が決まっていないよ</string>
+</resources>
